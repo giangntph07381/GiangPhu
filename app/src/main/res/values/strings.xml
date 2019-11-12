@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GiangPhu</string>
+    <string name="ne">New</string>
+    <string name="category">Category</string>
+    <string name="hit">HIT</string>
+    <string name="favorites">Favorites</string>
+    <string name="introduce">Introduce</string>
+    <string name="logout">Logout</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="share" />
+    <string name="save" />
+    <string name="set" />
+    <string name="love" />
+</resources>
